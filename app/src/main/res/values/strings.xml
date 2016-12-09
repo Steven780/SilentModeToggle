@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Silent Mode Toggle</string>
-    <string name="hello">Hello World!</string>
+    <string name="button_text">Toggle Silent Mode</string>
 </resources>
